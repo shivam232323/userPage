@@ -1,0 +1,47 @@
+#new-user
+{
+    margin: 20px 20px;
+    display: none;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    top: 75px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+    width: fit-content;
+    width: 500px;
+    
+  }
+  
+  
+  
+  #userName
+  {
+    text-align: center;
+  }
+  #emailId
+  {
+    text-align: center;
+  }
+  
+  #actions
+  {
+    text-align: center;
+  
+  }
+
+  h1{
+    text-transform: uppercase;
+    color: rgb(168, 127, 255);
+  }
+  
+  
